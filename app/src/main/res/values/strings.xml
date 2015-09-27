@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LatestMusicScene</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle1">Beyonce And Ed Sheeran Finally Sang ‘Drunk In Love’ Together And It Was Glorious</string>
+    <string name="txtTitle2">Ariana Grande Surprises Coldplay Fans Onstage: Watch</string>
+    <string name="imgStory1">Story1 Image</string>
+    <string name="imgStory2">Story2 Image</string>
+    <string name="txtBody1">After covering the sultry Beyonce track for Ryan Seacrest and Elvis Duran during radio interviews, the British singer got the real deal to join him on Saturday night (Sept. 26) at Global Citizen Festival in New York’s Central Park.</string>
+    <string name="txtBody2">When Chris Martin asked his kids, Apple and Moses, who they wanted to come onstage during Coldplay’s set at Saturday’s (Sept. 26) Global Citizen Festival, he said there were a few weeks of deliberation. But when Ariana Grande came onstage, you know they made the right choice</string>
+    <string name="btnViewStory1">View Story Here</string>
+    <string name="btnViewStory2">View Story Here</string>
+    <string name="title_activity_beyonce">Beyonce</string>
+    <string name="title_activity_grande">Grande</string>
+</resources>
